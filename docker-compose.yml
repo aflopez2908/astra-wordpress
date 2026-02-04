@@ -14,7 +14,7 @@ services:
       - db_data:/var/lib/mysql
 
   wordpress:
-    image: feliperussi/mi-wordpress:latest
+    image: feliperussi/mi-wordpress:v1.1
     container_name: wordpress_app
     ports:
       - "8080:80"
