@@ -1,0 +1,19 @@
+# WordPress core files (se descargan automáticamente)
+wordpress-data/wp-admin/
+wordpress-data/wp-includes/
+wordpress-data/*.php
+wordpress-data/wp-config-sample.php
+wordpress-data/readme.html
+wordpress-data/license.txt
+
+# Pero mantener configuraciones importantes
+!wordpress-data/wp-config.php
+!wordpress-data/.htaccess
+
+# Logs y temporales
+wordpress-data/wp-content/debug.log
+wordpress-data/wp-content/cache/
+uploads/cache/
+
+# Docker
+.env
