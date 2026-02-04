@@ -6,8 +6,8 @@
 echo "🔄 Esperando que MySQL esté listo..."
 sleep 10
 
-echo "🗄️ Restaurando base de datos..."
-docker exec -i wordpress_db mysql -u wp_user -pwp_pass wordpress < wordpress-backup.sql
+echo "🗄️ Restaurando base de datos completa..."
+docker exec -i wordpress_db mysql -u root -proot_pass wordpress < wordpress-backup-complete.sql
 
 echo "🔄 Reiniciando WordPress..."
 docker-compose restart wordpress

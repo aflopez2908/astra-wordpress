@@ -1,0 +1,338 @@
+# Translation of Plugins - IP2Location Redirection - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - IP2Location Redirection - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-31 09:54:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - IP2Location Redirection - Stable (latest release)\n"
+
+#: ip2location-redirection.php:2127
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "¿Le ha gustado %1$s? Déjanos una valoración de %2$s. Muchas gracias de antemano."
+
+#: ip2location-redirection.php:1632
+msgid "Debug log will store under %1s."
+msgstr "El registro de depuración se almacenará en %1s."
+
+#: ip2location-redirection.php:1630
+msgid "Enable Debugging Log"
+msgstr "Activar registro de depuración"
+
+#: ip2location-redirection.php:1611
+msgid "Available Credit"
+msgstr "Crédito disponible"
+
+#: ip2location-redirection.php:1591
+msgid "API Key"
+msgstr "Clave API"
+
+#: ip2location-redirection.php:1544
+msgid "Database Date"
+msgstr "Fecha de la base de datos"
+
+#: ip2location-redirection.php:1536
+msgid "Database Path"
+msgstr "Ruta de la base de datos"
+
+#: ip2location-redirection.php:1531
+msgid "Database file not found."
+msgstr "Archivo de base de datos no encontrado."
+
+#: ip2location-redirection.php:1528
+msgid "Database File"
+msgstr "Archivo de base de datos"
+
+#: ip2location-redirection.php:1522
+msgid "Download a smaller database which is faster in lookup speed. Perfect for website with only IPv4 supported."
+msgstr "Descargar una base de datos más pequeña que es más rápido en la velocidad de búsqueda. Perfecto para sitios web que solo admiten IPv4."
+
+#: ip2location-redirection.php:1518
+msgid "Download IPv4 database only"
+msgstr "Descargar sólo base de datos IPv4"
+
+#: ip2location-redirection.php:1506
+msgid "Enable region database"
+msgstr "Activar la base de datos de regiones"
+
+#: ip2location-redirection.php:1493
+msgid "Download Token"
+msgstr "Descargar Token"
+
+#: ip2location-redirection.php:1481
+msgid "API Web Service"
+msgstr "Servicio web API"
+
+#: ip2location-redirection.php:1035 ip2location-redirection.php:1040
+msgid "Get Started"
+msgstr "Empezar"
+
+#: ip2location-redirection.php:898
+msgid "Do not redirect bots and crawlers."
+msgstr "No redirija bots ni crawlers."
+
+#: ip2location-redirection.php:856
+msgid "Destination"
+msgstr "Destino"
+
+#: ip2location-redirection.php:854
+msgid "Location"
+msgstr "Ubicación"
+
+#: ip2location-redirection.php:837
+msgid "Enable Redirection"
+msgstr "Activar redirección"
+
+#: ip2location-redirection.php:819 ip2location-redirection.php:1449
+msgid "Changes saved."
+msgstr "Cambios guardados."
+
+#: ip2location-redirection.php:737 ip2location-redirection.php:748
+msgid "%1$s is not a valid URL."
+msgstr "%1$s no es una URL válida."
+
+#: ip2location-redirection.php:691 ip2location-redirection.php:702
+msgid "%1$s is not a domain name."
+msgstr "%1$s no es un nombre de dominio."
+
+#: ip2location-redirection.php:340
+msgid "Connection timed out while downloading database."
+msgstr "La conexión se ha interrumpido durante la descarga de la base de dato"
+
+#: ip2location-redirection.php:2170
+msgid "Skip & Deactivate"
+msgstr "Omitir y desactivar"
+
+#: ip2location-redirection.php:2167
+msgid "Submit & Deactivate"
+msgstr "Enviar y desactivar"
+
+#: ip2location-redirection.php:2140
+msgid "Would you mind sharing with us the reason to deactivate the plugin?"
+msgstr "¿Le importaría compartir con nosotros la razón para desactivar el plugin?"
+
+#: ip2location-redirection.php:1746
+msgid "Redirection disabled."
+msgstr "Redirección desactivada."
+
+#: ip2location-redirection.php:1601
+msgid "Your IP2Location %1$sGeolocation%2$s API key."
+msgstr "Su clave API de IP2Location %1$sGeolocation%2$s."
+
+#: ip2location-redirection.php:1564
+msgid "If you are looking for high accuracy result, you should consider using the commercial version of %1$sIP2Location BIN database%2$s."
+msgstr "Si busca resultados de alta precisión, debería considerar el uso de la versión comercial de %1$sIP2Location BIN database%2$s."
+
+#: ip2location-redirection.php:1556
+msgid "Update Database"
+msgstr "Actualizar base de datos"
+
+#: ip2location-redirection.php:1480
+msgid "Local BIN Database"
+msgstr "Base de datos local BIN"
+
+#: ip2location-redirection.php:1476
+msgid "Lookup Mode"
+msgstr "Modo de búsqueda"
+
+#: ip2location-redirection.php:88 ip2location-redirection.php:1458
+msgid "Settings"
+msgstr "Configuración"
+
+#: ip2location-redirection.php:1402 ip2location-redirection.php:1415
+msgid "Invalid IP2Location API key."
+msgstr "Clave API de IP2Location no válida."
+
+#: ip2location-redirection.php:1393
+msgid "Error when accessing IP2Location web service gateway."
+msgstr "Error al acceder a la pasarela del servicio web de IP2Location."
+
+#: ip2location-redirection.php:1315
+msgid "Lookup"
+msgstr "Búsqueda"
+
+#: ip2location-redirection.php:1306
+msgid "IP Address"
+msgstr "Dirección IP"
+
+#: ip2location-redirection.php:87 ip2location-redirection.php:1299
+msgid "IP Lookup"
+msgstr "Búsqueda IP"
+
+#: ip2location-redirection.php:1290
+msgid "IP address %1$s belongs to %2$s."
+msgstr "La dirección IP %1$s pertenece a %2$s."
+
+#: ip2location-redirection.php:1283
+msgid "Unable to lookup IP address %1$s."
+msgstr "No se puede buscar la dirección IP %1$s."
+
+#: ip2location-redirection.php:1272
+msgid "Please enter a valid IP address."
+msgstr "Por favor, introduzca una dirección IP válida."
+
+#: ip2location-redirection.php:1271 ip2location-redirection.php:1282
+#: ip2location-redirection.php:1392 ip2location-redirection.php:1401
+#: ip2location-redirection.php:1414
+msgid "ERROR"
+msgstr "ERROR"
+
+#: ip2location-redirection.php:1183 ip2location-redirection.php:1249
+msgid "Finish"
+msgstr "Finalizar"
+
+#: ip2location-redirection.php:1115 ip2location-redirection.php:1148
+#: ip2location-redirection.php:1218
+msgid "Previous"
+msgstr "Anterior"
+
+#: ip2location-redirection.php:1076 ip2location-redirection.php:1116
+#: ip2location-redirection.php:1149 ip2location-redirection.php:1219
+msgid "Next"
+msgstr "Siguiente"
+
+#: ip2location-redirection.php:1106
+msgid "Enter IP2Location LITE download token"
+msgstr "Introduzca el código de descarga de IP2Location LITE"
+
+#: ip2location-redirection.php:1098 ip2location-redirection.php:1137
+#: ip2location-redirection.php:1170
+msgid "Step 3"
+msgstr "Paso 3"
+
+#: ip2location-redirection.php:1094 ip2location-redirection.php:1133
+#: ip2location-redirection.php:1166 ip2location-redirection.php:1201
+#: ip2location-redirection.php:1236
+msgid "Step 2"
+msgstr "Paso 2"
+
+#: ip2location-redirection.php:1090 ip2location-redirection.php:1129
+#: ip2location-redirection.php:1162 ip2location-redirection.php:1197
+#: ip2location-redirection.php:1232
+msgid "Step 1"
+msgstr "Paso 1"
+
+#: ip2location-redirection.php:1033
+msgid "IP2Location requires %1$s PHP extension enabled. Please enable this extension in your %2$s."
+msgstr "IP2Location requiere %1$s extensión PHP habilitada. Por favor habilite esta extensión en su %2$s."
+
+#: ip2location-redirection.php:913 ip2location-redirection.php:1700
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: ip2location-redirection.php:890
+msgid "Ignore query strings and parameters when matching page."
+msgstr "Ignorar cadenas de consulta y parámetros al hacer coincidir la página."
+
+#: ip2location-redirection.php:882
+msgid "Skip redirection if %1$s found in URL. For example,"
+msgstr "Omitir redirección si %1$s se encuentra en la URL. Por ejemplo"
+
+#: ip2location-redirection.php:874
+msgid "Please enter IP address or CIDR notation."
+msgstr "Introduzca la dirección IP o la notación CIDR."
+
+#: ip2location-redirection.php:869
+msgid "Exclude the below IP addresses from redirection:"
+msgstr "Excluya las siguientes direcciones IP de la redirección:"
+
+#: ip2location-redirection.php:857
+msgid "Status"
+msgstr "Estado"
+
+#: ip2location-redirection.php:855
+msgid "From"
+msgstr "Desde"
+
+#: ip2location-redirection.php:86 ip2location-redirection.php:826
+msgid "Rules"
+msgstr "Reglas"
+
+#: ip2location-redirection.php:760
+msgid "Target post and destination post cannot be same."
+msgstr "El post de destino y el post de destino no pueden ser el mismo."
+
+#: ip2location-redirection.php:726
+msgid "Target domain and destination domain %1$s cannot be same."
+msgstr "El dominio de destino y el dominio de destino %1$s no pueden ser el mismo."
+
+#: ip2location-redirection.php:714
+msgid "Target URL and destination URL cannot be same."
+msgstr "La URL de destino y la URL de destino no pueden ser iguales."
+
+#: ip2location-redirection.php:595 ip2location-redirection.php:2160
+msgid "Other concerns"
+msgstr "Otros problemas"
+
+#: ip2location-redirection.php:594 ip2location-redirection.php:2155
+msgid "The plugin doesn't meet my requirements"
+msgstr "El plugin no cumple mis requisitos"
+
+#: ip2location-redirection.php:593 ip2location-redirection.php:2150
+msgid "I couldn't get the plugin to work"
+msgstr "No consigo que funcione el plugin"
+
+#: ip2location-redirection.php:592 ip2location-redirection.php:2145
+msgid "I no longer need the plugin"
+msgstr "Ya no necesito el plugin"
+
+#: ip2location-redirection.php:457
+msgid "Invalid download token."
+msgstr "Token de descarga no válido."
+
+#: ip2location-redirection.php:378
+msgid "There is problem when decompress the database."
+msgstr "Hay un problema al descomprimir la base de datos."
+
+#: ip2location-redirection.php:350
+msgid "No permission to write into file system."
+msgstr "No hay permiso para escribir en el sistema de archivos."
+
+#. Author URI of the plugin
+#: ip2location-redirection.php
+msgid "https://www.ip2location.com"
+msgstr "https://www.ip2location.com"
+
+#. Author of the plugin
+#: ip2location-redirection.php
+msgid "IP2Location"
+msgstr "IP2Location"
+
+#. Description of the plugin
+#: ip2location-redirection.php
+msgid "Redirect visitors by their country."
+msgstr "Redirigir a los visitantes por su país."
+
+#. Plugin URI of the plugin
+#: ip2location-redirection.php
+msgid "https://ip2location.com/resources/wordpress-ip2location-redirection"
+msgstr "https://ip2location.com/resources/wordpress-ip2location-redirection"
+
+#. Plugin Name of the plugin
+#: ip2location-redirection.php ip2location-redirection.php:2128
+msgid "IP2Location Redirection"
+msgstr "Redirección IP2Location"
+
+#: ip2location-redirection.php:1510
+msgid "A larger database will be downloaded. Disable this option if your system has limited resources."
+msgstr "Se descargará una base de datos más grande. Desactiva esta opción si tu sistema tiene recursos limitados."
+
+#: ip2location-redirection.php:1498
+msgid "Enter your IP2Location download token."
+msgstr "Introduce tu token de descarga de IP2Location."
+
+#: ip2location-redirection.php:1309
+msgid "Enter a valid IP address to lookup for country information."
+msgstr "Introduce una dirección IP válida para buscar información del país."
+
+#: ip2location-redirection.php:363
+msgid "Downloaded database is corrupted. Please try again later."
+msgstr "La base de datos descargada está dañada. Vuelve a intentarlo más tarde."
+
+#: ip2location-redirection.php:320
+msgid "You do not have permission to download this database."
+msgstr "No tienes permisos para descargar esta base de datos."

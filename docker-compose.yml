@@ -25,10 +25,10 @@ services:
       WORDPRESS_DB_PASSWORD: wp_pass
       WORDPRESS_DB_NAME: wordpress
     volumes:
-      - wp_data:/var/www/html
+      - ./wp-content:/var/www/html/wp-content
+      - ./wp-config.php:/var/www/html/wp-config.php
     depends_on:
       - db
 
 volumes:
   db_data:
-  wp_data:
